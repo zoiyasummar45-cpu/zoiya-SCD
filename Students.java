@@ -1,6 +1,6 @@
 public class Students {
-    String name;
-    int rollNumber;
+    private String name;
+    private int rollNumber;
 
     public void displayinfo(){
        
